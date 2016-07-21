@@ -1,0 +1,5 @@
+[
+    { 
+        "keys": ["ctrl+q"], "command": "n2c"
+    }
+]
